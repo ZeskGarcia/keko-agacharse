@@ -5,6 +5,6 @@ client_script {
     'client.lua'
 }
 
-server_script {
+--[[server_script {
     'server.lua'
-}
+}]]
